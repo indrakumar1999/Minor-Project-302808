@@ -1,6 +1,6 @@
 # SDLC Activity Based Learning
 
-Visit [Pages for Report -optional](https://github.com/deepakdanichy/Minor-Project-302808/blob/main/AppliedSDLC_Template-main/mainp.png)
+![Pages for Report -optional](https://github.com/deepakdanichy/Minor-Project-302808/blob/main/AppliedSDLC_Template-main/mainp.png)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
