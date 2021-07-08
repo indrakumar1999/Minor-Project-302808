@@ -33,7 +33,7 @@ This system can be installed at any of the customer home whose maximum daily loa
 
 ## How:
 
-This system will not only provide contineous power but also help the user to reduce their electricity cost.
+This system will not only provide contineous power suply but also help the user to reduce their electricity cost.
 
 # Detail requirements
 ## High Level Requirements:
