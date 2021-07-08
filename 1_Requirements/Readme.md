@@ -9,7 +9,7 @@
 ![Description](Link to Pic)
 -- Content 
 ## Defining Our System
-    -- TBD
+The system have different source of energy like PV Solar, Grid and Battery. And it work in both Islanded mode and Grid Connected mode. In islanded mode of operation there are three mode. And depending on the load demand, SOC(battery power) of batter and irradiance(PV power) different modes will operate. There are three type of converter are used and they are boost converter, bi-directional dc-dc converter and 3 level bridge converter. The main objective behind this project is to provide continuous power supply and to save electricity cost for the user.
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
@@ -17,23 +17,23 @@
 
 ## Who:
 
-**TBD**
+Any customer who want to reduce their electricity cost.
 
 ## What:
 
-**TBD**
+This system will provide contineous power to home.
 
 ## When:
 
-**TBD**
+This system can be used when a customer want uninterrupted elctricty supply.
 
 ## Where:
 
-**TBD**
+This system can be installed at any of the customer home whose maximum daily load demand is 5Kw.
 
 ## How:
 
-**TBD**
+This system will not only provide contineous power but also help the user to reduce their electricity cost.
 
 # Detail requirements
 ## High Level Requirements:
