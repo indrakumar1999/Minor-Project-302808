@@ -8,8 +8,11 @@ PV plants at the residential levels had a good impact on the network and adding 
 Almost same technique is used in the Electric Vehicle for charging and discharging of battery. The most common type are V2G and G2V. In V2G that is vehicle to grid system the battery energy can be transfered to the grid or can be used to supply power to home. V2G can be used to implement net metering. And in G2V that is grid to vehicle, grid or other source of energy is used to charge the battery of EV. So, almost same concept is used for battery charging and discharging process in electric vehicle. The only difference is load. If we remove the load from this system the same system can be implemented in electric vehicle. 
 ## Cost and Features
 ![Description](Link to Pic)
-No.  | Type  | Price(INR)
-1     2Kw On-grid silar  Rs 100000 onward
+No. |  Type   |    Cost(INR)    
+-------|---------|----------------
+1 | 2kW On-grid solar | Rs 1,00,000 Onward
+2 | 2kW off-grid solar | Rs 1,50,000 Onward
+3 | 2kW Hybrid solar  | Rs 1,65,000 Onward
 ## Defining Our System
 The system have different source of energy like PV Solar, Grid and Battery. And it work in both Islanded mode and Grid Connected mode. In islanded mode of operation there are three mode. And depending on the load demand, SOC(battery power) of batter and irradiance(PV power) different modes will operate. There are three type of converter are used and they are boost converter, bi-directional dc-dc converter and 3 level bridge converter. The main objective behind this project is to provide continuous power supply and to save electricity cost for the user.
 ## SWOT ANALYSIS
@@ -41,8 +44,14 @@ This system will not only provide contineous power suply but also help the user 
 ## High Level Requirements:
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
+    1  | User Input  | Implemented
 
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
+    1 | Power Calculation | Implemented
+    2 | Islanded mode 1  | Implemented
+    3 | Islanded mode 2  | Implemented
+    4 | Islanded mode 3  | Implemented
+    5 | Grid connected mode  | Implemented
