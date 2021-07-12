@@ -4,7 +4,11 @@ Need for electricity has been growing globally at a very fast rate and is expect
 
 ## Research
 ![Description](https://github.com/deepakdanichy/Minor-Project-302808/blob/main/1_Requirements/Vehicle-to-Grid.png)
+
+
 ![Description](https://github.com/deepakdanichy/Minor-Project-302808/blob/main/1_Requirements/Energy-flow-during-G2V-and-V2G-operating-modes.png)
+
+
 PV plants at the residential levels had a good impact on the network and adding energy storing at the residential level should have great effectiveness too. The main aim for this system is using both grid and PV to supply power to the residence at all times. The installation of PV-battery system in households is aimed to increase self-consumption of solar energy, also the owner’s self-reliance. The PV system alone is really expensive to be used for residential use and many people don’t prefer is for the same. And a lot of power gets wasted when the irradiance is very high. But all these problems can be solved by adding a battery system to the circuit. Storing the PV power could make a positive impact on the overall system. Also, the use of Grid with PV ensures full time power supply and cost management. The electricity bill gets reduced too.
 Almost same technique is used in the Electric Vehicle for charging and discharging of battery. The most common type are V2G and G2V. In V2G that is vehicle to grid system the battery energy can be transfered to the grid or can be used to supply power to home. V2G can be used to implement net metering. And in G2V that is grid to vehicle, grid or other source of energy is used to charge the battery of EV. So, almost same concept is used for battery charging and discharging process in electric vehicle. The only difference is load. If we remove the load from this system the same system can be implemented in electric vehicle. 
 ## Cost and Features
@@ -16,7 +20,7 @@ No. |  Type   |    Cost(INR)
 ## Defining Our System
 The system have different source of energy like PV Solar, Grid and Battery. And it work in both Islanded mode and Grid Connected mode. In islanded mode of operation there are three mode. And depending on the load demand, SOC(battery power) of batter and irradiance(PV power) different modes will operate. There are three type of converter are used and they are boost converter, bi-directional dc-dc converter and 3 level bridge converter. The main objective behind this project is to provide continuous power supply and to save electricity cost for the user.
 ## SWOT ANALYSIS
-![SWOT-Sample](https://github.com/deepakdanichy/Minor-Project-302808/blob/main/1_Requirements/swot%20my.PNG)
+##![SWOT-Sample](https://github.com/deepakdanichy/Minor-Project-302808/blob/main/1_Requirements/swot%20my.PNG)
 
 # 4W&#39;s and 1&#39;H
 
