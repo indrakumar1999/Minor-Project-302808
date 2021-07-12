@@ -46,11 +46,11 @@ ID |  Description   | Status (Implemented/Future)
 1 | User Input | Implemented
 
 ##  Low level Requirements:
-    ID |  Description   |  Status (Implemented/Future)   
+ID |  Description   |  Status (Implemented/Future)   
 -------|---------|----------------
 1 | Power Calculation | Implemented
 2 | Islanded mode 1 | Implemented
-3 | Islanded mode 2  | Implemented
+3 | Islanded mode 2 | Implemented
 4 | Islanded mode 3 | Implemented
-5 | Grid connected mode  | Implemented
+5 | Grid connected mode | Implemented
     
