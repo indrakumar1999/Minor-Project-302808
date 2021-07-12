@@ -17,9 +17,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`302808` | Deepak Kumar Choudhary  | Feature 1,2,...5    | x No     | x No   |5 No   |5 No         
+`XXXXXX` | Deepak Kumar Choudhary  | Feature 1,2,...5    | x No     | x No   |5    |5          
 
 ## Challenges Faced and How Was It Overcome
 
