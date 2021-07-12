@@ -19,8 +19,7 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+`302808` | Deepak Kumar Choudhary  | Feature 1,2,...5    | x No     | x No   |5 No   |5 No         
 
 ## Challenges Faced and How Was It Overcome
 
