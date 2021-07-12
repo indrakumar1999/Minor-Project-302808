@@ -20,7 +20,7 @@ No. |  Type   |    Cost(INR)
 ## Defining Our System
 The system have different source of energy like PV Solar, Grid and Battery. And it work in both Islanded mode and Grid Connected mode. In islanded mode of operation there are three mode. And depending on the load demand, SOC(battery power) of batter and irradiance(PV power) different modes will operate. There are three type of converter are used and they are boost converter, bi-directional dc-dc converter and 3 level bridge converter. The main objective behind this project is to provide continuous power supply and to save electricity cost for the user.
 ## SWOT ANALYSIS
-##![SWOT-Sample](https://github.com/deepakdanichy/Minor-Project-302808/blob/main/1_Requirements/swot%20my.PNG)
+![SWOT-Sample](https://github.com/deepakdanichy/Minor-Project-302808/blob/main/1_Requirements/swot%20my.PNG)
 
 # 4W&#39;s and 1&#39;H
 
