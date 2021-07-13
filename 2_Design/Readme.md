@@ -9,5 +9,5 @@ Structural and Behavioural Diagram
 ## Low Level Design 
 
 Structural and Behavioural Diagram
-![FeaturesLevelStructuralDiagram](Link to Pichttps://github.com/deepakdanichy/Minor-Project-302808/blob/main/2_Design/low%20l.png)
+![FeaturesLevelStructuralDiagram](https://github.com/deepakdanichy/Minor-Project-302808/blob/main/2_Design/low%20l.png)
 
