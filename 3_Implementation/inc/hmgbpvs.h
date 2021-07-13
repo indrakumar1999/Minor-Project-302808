@@ -14,9 +14,9 @@
 
 #include<stdio.h>
 # include <stdlib.h>
-//# include <stdbool.h>
+# include <stdbool.h>
 //# include <stdio_ext.h> //not supported by the vcode command line
-//# include <time.h>
+# include <time.h>
 //# include <conio.h> //not supported by the linux command line
 #include<unistd.h>
 //# include <dos.h> //not supported by the linux command line
