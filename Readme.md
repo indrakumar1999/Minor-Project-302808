@@ -21,5 +21,13 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `XXXXXX` | Deepak Kumar Choudhary  | Feature 1,2,...5    | 2     | 2   |5    |5          
 
+## Features
+ID             | Description
+-------------------| -----------------------------------------
+1  | Power calculation
+2  | Islanded mode 1
+3  | Islanded mode 2
+4  | Islanded mode 3
+5  | Grid connected mode 
 
 
